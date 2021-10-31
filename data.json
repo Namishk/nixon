@@ -17,12 +17,17 @@
             "email" : "aasaram@gmail.com",
             "phone" : "12345678990",
             "Roll" : "2020cheee053"
-        }
+        },
 {
             "name":"Garv Baheti",
             "email":"garvbaheti@gmail.com",
             "phone":"9879123456",
             "rollno":"2020btechcse031"
-        },
+        },{
+            "name":"Adit",
+            "email":"adit@gmail.com",
+            "phone":"9879123786",
+            "rollno":"2020btechcse081"
+        }
     ]
 }
